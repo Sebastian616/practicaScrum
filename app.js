@@ -1,0 +1,1 @@
+console.log("funciones del grupo")
