@@ -1,1 +1,1 @@
-//estas seran mis funciones
+console.log("funciones")
